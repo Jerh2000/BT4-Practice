@@ -1,0 +1,21 @@
+.slider{
+    background: url(../images/Wallhaven.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.slider2{
+    background-color: rgba(59, 59, 59, 0.7);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-overlay{
+    background: rgba(250, 245, 245, 0.0);
+}
+
+body{
+    background-image: url(../images/bg.png);
+    background-repeat: repeat-x-y;
+}

@@ -1,0 +1,17 @@
+.borde{
+    border: 2px solid black;
+    text-align: center;
+    height: 50px;
+}
+.colorUp-Down{
+    background-color:blue;
+}
+.color-left{
+    background-color: gray;
+}
+.color-center{
+    background-color: yellow;
+}
+.color-right{
+    background-color: green;
+}
